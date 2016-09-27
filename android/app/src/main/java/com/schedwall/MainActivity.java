@@ -1,6 +1,7 @@
 package com.schedwall;
 
 import com.facebook.react.ReactActivity;
+import com.reactnativenavigation.NavigationReactPackage;
 
 public class MainActivity extends ReactActivity {
 
